@@ -1,2 +1,24 @@
 # stan
 front end study 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
